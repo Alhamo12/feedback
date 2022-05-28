@@ -1,15 +1,15 @@
 # GitHub public feedback discussions
 
-In this repository, you can find the [official GitHub public feedback discussions](https://github.com/github/feedback/discussions) for the following product areas, as well as an overall category for general product feedback:
+في هذا المستhttps://github.com/github/feedback/discussionsودع ، يمكنك العثور على [مناقشات التعليقات العامة الرسمية على GitHub] () لمجالات المنتجات التالية ، بالإضافة إلى فئة عامة للتعليقات العامة على المنتج:
 
-| **Feedback Category** | **About the Product** 	|
+| ** فئة الملاحظات ** | ** حول المنتج **	|
 |---	|---	|
-| 👍  [Accessibility](https://github.com/github/feedback/discussions/categories/accessibility-feedback) 	| [About Accessibility](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-accessibility-settings#about-accessibility-settings) |
-| 🚢  [Actions and Packages](https://github.com/github/feedback/discussions/categories/actions-and-packages-feedback) 	| [GitHub Actions](https://github.com/features/actions) and [GitHub Packages](https://github.com/features/packages) |
+| 👍       [إمكانية الوصول] ( https://github.com/github/feedback/discussions/categories/accessibility-feedback )	| [حول إمكانية الوصول] ( https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/ إدارة -إعدادات الوصول # about-accessibility-settings) |
+| 🚢    [الإجراءات والحزم] ( https://github.com/github/feedback/discussions/categories/actions-and-packages-feedback )	| [إجراءات GitHub] ( https://github.com/features/actions ) و [حزم GitHub] ( https://github.com/features/packages ) |
 | 🔎  [Code Search & Navigation](https://github.com/github/feedback/discussions/categories/code-search-and-navigation-feedback) 	| [Code Search & Navigation](https://cs.github.com/about) 	|
-| 💻  [Codespaces](https://github.com/github/feedback/discussions/categories/codespaces-feedback) 	| [GitHub Codespaces](https://github.com/features/codespaces) 	|
+| 💻   [Codespaces] (https://github.com/github/feedback/discussions/categories/codespaces-feedback) 	| [GitHub Codespaces] (https://github.com/features/codespaces) 	|
 | 👩‍✈️  [Copilot](https://github.com/github/feedback/discussions/categories/copilot-feedback)   	| [GitHub Copilot](https://copilot.github.com/) (Technical Preview) 	|
-| 🤖  [Code Security](https://github.com/github/feedback/discussions/categories/code-security-feedback) 	| [GitHub Code Security](https://github.com/features/security) 	|
+| 🤖   [كود الأمان] (https://github.com/github/feedback/discussions/categories/code-security-feedback) 	| [GitHub Code Security] (https://github.com/features/security) 	|
 | 🗣️  [Discussions](https://github.com/github/feedback/discussions/categories/discussions-feedback)  	| [GitHub Discussions](https://docs.github.com/en/discussions) 	|
 | 🌐  [Feed](https://github.com/github/feedback/discussions/categories/feed-feedback)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
 | 🐙  [Issues](https://github.com/github/feedback/discussions/categories/issues-feedback) 	| [GitHub Issues](https://github.com/features/issues) 	|
